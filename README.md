@@ -1,24 +1,10 @@
-# README
+# Ruby on Rails API with GraphQL
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Getting Started
+Run the following commands to get started:
+```
+rails server
+```
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Resources
+[How To Set Up a Ruby on Rails GraphQL API](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-graphql-api)
